@@ -485,12 +485,12 @@ def get_roi_list(roi_version=2):
             "PERI",
             "PIR",
             "PL",
-            "PTLp",
             "RSP",
             "SS",
             "TE",
             "VIS",
             "VISC",
+            "PTLp",
         ]    
     return rois
 
