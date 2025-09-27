@@ -485,7 +485,7 @@ def get_roi_list(roi_version=2):
             "PERI",
             "PIR",
             "PL",
-            "PTL",
+            "PTLp",
             "RSP",
             "SS",
             "TE",
