@@ -487,7 +487,7 @@ def get_roi_list(roi_version=2):
             "PL",
             "RSP",
             "SS",
-            "TE",
+            "TEa",
             "VIS",
             "VISC",
             "PTLp",
