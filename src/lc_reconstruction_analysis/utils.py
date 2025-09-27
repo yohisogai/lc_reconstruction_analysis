@@ -470,6 +470,28 @@ def get_roi_list(roi_version=2):
             "mfbs",
             "VS",
         ]
+    elif roi_version == 4:
+        rois = [
+            "ACA",
+            "AI",
+            "AON",
+            "AUD",
+            "ECT",
+            "ENT",
+            "GU",
+            "ILA",
+            "MO",
+            "ORB",
+            "PERI",
+            "PIR",
+            "PL",
+            "PTL",
+            "RSP",
+            "SS",
+            "TE",
+            "VIS",
+            "VISC",
+        ]    
     return rois
 
 
