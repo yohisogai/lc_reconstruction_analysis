@@ -14,7 +14,7 @@ from sklearn.cluster import KMeans
 import lc_reconstruction_analysis.utils as utils
 
 
-def get_roi_map(DATA_DIR, roi_version=1):
+def get_roi_map(DATA_DIR, roi_version=4):
     """
     Returns maps from ID to ROI, acronym, and parent
     """
