@@ -1,2 +1,2 @@
-# lc_reconstruction_analysis-main
+# lc_reconstruction_analysis
 
